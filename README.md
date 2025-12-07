@@ -1,4 +1,4 @@
-<!-- README.md - Jayesh Sardesai (final) -->
+<!-- README.md - Jayesh Sardesai (square contact icons, updated tech stack) -->
 
 <div align="center">
 
@@ -7,25 +7,25 @@
 # Hi 👋, I'm **Jayesh Sardesai**
 ### **Full Stack Developer • AI/ML Engineer • Cybersecurity Enthusiast**
 
-<!-- Contact Badges (Square Style) -->
+<!-- Contact Icons: true square icons (28x28) -->
 <p>
-  <a href="mailto:jayeshsardesai@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20(Primary)-000000?style=flat-square&logo=gmail&logoColor=white" alt="primary email" />
+  <a href="mailto:jayeshsardesai@gmail.com" title="Primary Email">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28" height="28" alt="email" style="background:#000000; padding:4px; border-radius:6px;" />
   </a>
-  <a href="mailto:desaijayash@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20(Backup)-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="backup email" />
+  <a href="mailto:desaijayash@gmail.com" title="Backup Email">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28" height="28" alt="backup email" style="background:#1a1a1a; padding:4px; border-radius:6px;" />
   </a>
-  <a href="https://github.com/JayeshSardesai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github" />
+  <a href="https://github.com/JayeshSardesai" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="28" height="28" alt="github" style="background:#181717; padding:4px; border-radius:6px;" />
   </a>
-  <a href="https://www.linkedin.com/in/jayesh-sardesai-5b3245279">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/jayesh-sardesai-5b3245279" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28" height="28" alt="linkedin" style="background:#0A66C2; padding:4px; border-radius:6px;" />
   </a>
-  <a href="https://leetcode.com/u/jayesh037/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode" />
+  <a href="https://leetcode.com/u/jayesh037/" title="LeetCode">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="28" height="28" alt="leetcode" style="background:#111111; padding:4px; border-radius:6px;" />
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/desaijr7yu">
-    <img src="https://img.shields.io/badge/GFG-2F9E44?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="gfg" />
+  <a href="https://www.geeksforgeeks.org/profile/desaijr7yu" title="GeeksforGeeks">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="28" height="28" alt="gfg" style="background:#2F9E44; padding:4px; border-radius:6px;" />
   </a>
 </p>
 
@@ -59,11 +59,14 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -78,7 +81,6 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 <!-- Cloud & Hosting -->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -104,7 +106,7 @@
 
 ---
 
-## 📊 GitHub Streak (only)
+## 📊 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JayeshSardesai&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -113,17 +115,17 @@
 
 ## 📫 Contact
 <p align="center">
-  <a href="mailto:jayeshsardesai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="email" />
+  <a href="mailto:jayeshsardesai@gmail.com" title="Primary email">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28" height="28" alt="email" style="background:#000000; padding:4px; border-radius:6px;" />
   </a>
-  <a href="https://www.linkedin.com/in/jayesh-sardesai-5b3245279">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/jayesh-sardesai-5b3245279" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28" height="28" alt="linkedin" style="background:#0A66C2; padding:4px; border-radius:6px;" />
   </a>
-  <a href="https://leetcode.com/u/jayesh037/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode" />
+  <a href="https://leetcode.com/u/jayesh037/" title="LeetCode">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="28" height="28" alt="leetcode" style="background:#111111; padding:4px; border-radius:6px;" />
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/desaijr7yu">
-    <img src="https://img.shields.io/badge/GFG-2F9E44?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="gfg" />
+  <a href="https://www.geeksforgeeks.org/profile/desaijr7yu" title="GFG">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="28" height="28" alt="gfg" style="background:#2F9E44; padding:4px; border-radius:6px;" />
   </a>
 </p>
 
