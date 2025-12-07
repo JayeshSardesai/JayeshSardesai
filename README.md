@@ -1,4 +1,4 @@
-<!-- README.md - Jayesh Sardesai (square badges + only streak) -->
+<!-- README.md - Jayesh Sardesai (final) -->
 
 <div align="center">
 
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/desaijr7yu">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F9E44?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="gfg" />
+    <img src="https://img.shields.io/badge/GFG-2F9E44?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="gfg" />
   </a>
 </p>
 
@@ -53,32 +53,53 @@
 
 ---
 
-## 🌈 Tech Stack & Skills
-
 <p align="center">
+
+<!-- Languages -->
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<br/>
+
+<!-- Frontend -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<!-- Backend -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<br/>
+<img src="https://img.shields.io/badge/EJS-F7DF1E?style=for-the-badge&logo=ejs&logoColor=black" />
+
+<!-- Databases -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<!-- Cloud & Hosting -->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<br/>
+<img src="https://img.shields.io/badge/Render-2DB7EC?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<!-- AI/ML -->
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLOv5-FF6F61?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini_OCR-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white" />
+
+<!-- Cybersecurity -->
 <img src="https://img.shields.io/badge/Nmap-00A0D7?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/MSFvenom-DA1884?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Proxychains-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-6D1E8E?style=for-the-badge" />
+
 </p>
 
 ---
