@@ -1,4 +1,4 @@
-<!-- README.md - Jayesh Sardesai (coloured square icons + updated tech stack) -->
+<!-- README.md - Jayesh Sardesai (colored icons + spacing + final tweaks) -->
 
 <div align="center">
 
@@ -7,25 +7,33 @@
 # Hi 👋, I'm **Jayesh Sardesai**
 ### **Full Stack Developer • AI/ML Engineer • Cybersecurity Enthusiast**
 
-<!-- CONTACT ICONS (COLOURED SQUARES) -->
+<!-- CONTACT ICONS (COLOURED SQUARES WITH SPACING) -->
 <p>
   <a href="mailto:jayeshsardesai@gmail.com" title="Primary Email">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="34" height="34" style="border-radius:8px;" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"
+         width="34" height="34" style="border-radius:8px; margin-right:10px;" />
   </a>
-  <a href="mailto:desaijayash@gmail.com" title="Backup Email">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="34" height="34" style="border-radius:8px;" />
-  </a>
+
   <a href="https://github.com/JayeshSardesai" title="GitHub">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="34" height="34" style="border-radius:8px; background:white; padding:4px;" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"
+         width="34" height="34" style="border-radius:8px; background:white; padding:4px; margin-right:10px;" />
   </a>
+
   <a href="https://www.linkedin.com/in/jayesh-sardesai-5b3245279" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="34" height="34" style="border-radius:8px;" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"
+         width="34" height="34" style="border-radius:8px; margin-right:10px;" />
   </a>
+
+  <!-- COLORED LEETCODE ICON -->
   <a href="https://leetcode.com/u/jayesh037/" title="LeetCode">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="34" height="34" style="border-radius:8px; background:#FFA116; padding:6px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+         width="34" height="34" style="border-radius:8px; background:#FFA116; padding:4px; margin-right:10px;" />
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/desaijr7yu" title="GeeksforGeeks">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="34" height="34" style="border-radius:8px; background:#2F9E44; padding:6px;" />
+
+  <!-- COLORED GFG ICON -->
+  <a href="https://www.geeksforgeeks.org/profile/desaijr7yu" title="GFG">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+         width="34" height="34" style="border-radius:8px; background:#2F9E44; padding:4px; margin-right:10px;" />
   </a>
 </p>
 
@@ -115,16 +123,23 @@
 ## 📫 Contact  
 <p align="center">
   <a href="mailto:jayeshsardesai@gmail.com" title="Primary Email">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="34" height="34" style="border-radius:8px;" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"
+         width="34" height="34" style="border-radius:8px; margin-right:10px;" />
   </a>
+
   <a href="https://www.linkedin.com/in/jayesh-sardesai-5b3245279" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="34" height="34" style="border-radius:8px;" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"
+         width="34" height="34" style="border-radius:8px; margin-right:10px;" />
   </a>
+
   <a href="https://leetcode.com/u/jayesh037/" title="LeetCode">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="34" height="34" style="border-radius:8px; background:#FFA116; padding:6px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+         width="34" height="34" style="border-radius:8px; background:#FFA116; padding:4px; margin-right:10px;" />
   </a>
+
   <a href="https://www.geeksforgeeks.org/profile/desaijr7yu" title="GFG">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="34" height="34" style="border-radius:8px; background:#2F9E44; padding:6px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+         width="34" height="34" style="border-radius:8px; background:#2F9E44; padding:4px; margin-right:10px;" />
   </a>
 </p>
 
