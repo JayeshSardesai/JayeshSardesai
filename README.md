@@ -42,8 +42,8 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.E. Computer Science — Jain College of Engineering & Research (2022–2026)  
-- 🔭 **Currently:** Full Stack Development Intern at **Vinidra Softech** (Sep 2025 – Present)  
+- 🎓 B.E. Computer Science - Jain College of Engineering & Research (2022 - 2026)  
+- 🔭 **Currently:** Full Stack Development Intern at **Vinidra Softech** (Sep 2025 - Present)  
 - 🔐 I build full-stack systems, deploy AI/ML demos, and prototype cybersecurity tools.  
 - 📫 Email: **jayeshsardesai@gmail.com** (primary) | **desaijayash@gmail.com** (backup)
 
@@ -51,13 +51,13 @@
 
 ## 💼 Internships & Experience
 
-- **Vinidra Softech** — Full Stack Development Intern *(Sep 2025 – Present)*  
-- **Acmegrade** — Cybersecurity Intern *(Feb 2025 – Apr 2025)*  
-- **Edunet** — Foundations of AI *(Apr 2025 – May 2025)*  
-- **Edunet** — Cybersecurity Intern *(May 2025 – Jun 2025)*  
-- **Tata Forage** — Cybersecurity Analyst Virtual Simulation *(Apr 2025)*  
-- **Pranaksh Technologies** — Java Developer Intern *(Sep 2024 – Dec 2024)*  
-- **Softmusk Info Pvt. Ltd.** — Cloud Computing Intern *(Nov 2023 – Dec 2023)*
+- **Vinidra Softech** - Full Stack Development Intern *(Sep 2025 - Present)*  
+- **Acmegrade** - Cybersecurity Intern *(Feb 2025 - Apr 2025)*  
+- **Edunet** - Foundations of AI *(Apr 2025 - May 2025)*  
+- **Edunet** - Cybersecurity Intern *(May 2025 - Jun 2025)*  
+- **Tata Forage** - Cybersecurity Analyst Virtual Simulation *(Apr 2025)*  
+- **Pranaksh Technologies** - Java Developer Intern *(Sep 2024 - Dec 2024)*  
+- **Softmusk Info Pvt. Ltd.** - Cloud Computing Intern *(Nov 2023 - Dec 2023)*
 
 ---
 
